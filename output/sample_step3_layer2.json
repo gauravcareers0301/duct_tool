@@ -1,0 +1,84 @@
+{
+  "pairs": [
+    {
+      "name": "dining",
+      "skipped": false,
+      "start": [
+        4950,
+        1495
+      ],
+      "target": [
+        4978,
+        2451
+      ],
+      "corners": [
+        [
+          4950,
+          1495
+        ],
+        [
+          4880,
+          1495
+        ],
+        [
+          4880,
+          2451
+        ],
+        [
+          4978,
+          2451
+        ]
+      ],
+      "phase1": {
+        "reason": "elbow",
+        "turn_dir": -1
+      },
+      "phase2": {
+        "reason": "elbow",
+        "turn_dir": 1,
+        "seed_left": 4850,
+        "seed_right": 4898
+      }
+    },
+    {
+      "name": "scullery",
+      "skipped": false,
+      "start": [
+        2753,
+        1502
+      ],
+      "target": [
+        2753,
+        2102
+      ],
+      "corners": [
+        [
+          2753,
+          1502
+        ],
+        [
+          2823,
+          1502
+        ],
+        [
+          2823,
+          2102
+        ],
+        [
+          2753,
+          2102
+        ]
+      ],
+      "phase1": {
+        "reason": "elbow",
+        "turn_dir": -1
+      },
+      "phase2": {
+        "reason": "elbow",
+        "turn_dir": -1,
+        "seed_left": 2802,
+        "seed_right": 2826
+      }
+    }
+  ]
+}

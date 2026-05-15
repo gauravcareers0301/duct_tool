@@ -1,0 +1,13 @@
+id,orientation,dimension,pressure_class,area,position_x,position_y,length_ft
+duct_1,horizontal,"18""φ",High,Scullery,left,top,17
+duct_2,horizontal,"12""φ",Medium,Kitchen,center,middle,3
+duct_3,horizontal,"8""φ",Low,Scullery,left,top,11
+duct_4,horizontal,,,Kitchen,center,bottom,2
+duct_5,horizontal,"8""φ",Low,Scullery,left,bottom,9
+duct_6,horizontal,"12""φ",Medium,Kitchen,center,bottom,4
+duct_7,horizontal,"14""φ",Medium,Dining,right,top,25
+duct_8,vertical,,Medium,Dining,right,middle,13
+duct_9,horizontal,"14""φ",Medium,Dining,right,bottom,25
+duct_10,horizontal,"12""φ",Medium,Scullery,left,top,2
+duct_11,vertical,,Medium,Scullery,left,middle,8
+duct_12,horizontal,"12""φ",Medium,Scullery,left,bottom,4

@@ -1,0 +1,220 @@
+{
+  "ducts": [
+    {
+      "id": "duct_1",
+      "orientation": "horizontal",
+      "dimension": "18\"\u03c6",
+      "pressure_class": "High",
+      "area": "Scullery",
+      "length_ft": 17,
+      "bboxes": [
+        [
+          2329,
+          1169,
+          3588,
+          1239
+        ]
+      ],
+      "position_x": "left",
+      "position_y": "top"
+    },
+    {
+      "id": "duct_2",
+      "orientation": "horizontal",
+      "dimension": "12\"\u03c6",
+      "pressure_class": "Medium",
+      "area": "Kitchen",
+      "length_ft": 3,
+      "bboxes": [
+        [
+          3643,
+          1917,
+          3853,
+          1987
+        ]
+      ],
+      "position_x": "center",
+      "position_y": "middle"
+    },
+    {
+      "id": "duct_3",
+      "orientation": "horizontal",
+      "dimension": "8\"\u03c6",
+      "pressure_class": "Low",
+      "area": "Scullery",
+      "length_ft": 11,
+      "bboxes": [
+        [
+          1605,
+          1467,
+          2433,
+          1537
+        ]
+      ],
+      "position_x": "left",
+      "position_y": "top"
+    },
+    {
+      "id": "duct_4",
+      "orientation": "horizontal",
+      "dimension": null,
+      "pressure_class": null,
+      "area": "Kitchen",
+      "length_ft": 2,
+      "bboxes": [
+        [
+          3827,
+          2459,
+          3979,
+          2529
+        ]
+      ],
+      "position_x": "center",
+      "position_y": "bottom"
+    },
+    {
+      "id": "duct_5",
+      "orientation": "horizontal",
+      "dimension": "8\"\u03c6",
+      "pressure_class": "Low",
+      "area": "Scullery",
+      "length_ft": 9,
+      "bboxes": [
+        [
+          1593,
+          2067,
+          2283,
+          2137
+        ]
+      ],
+      "position_x": "left",
+      "position_y": "bottom"
+    },
+    {
+      "id": "duct_6",
+      "orientation": "horizontal",
+      "dimension": "12\"\u03c6",
+      "pressure_class": "Medium",
+      "area": "Kitchen",
+      "length_ft": 4,
+      "bboxes": [
+        [
+          3144,
+          2253,
+          3438,
+          2323
+        ]
+      ],
+      "position_x": "center",
+      "position_y": "bottom"
+    },
+    {
+      "id": "duct_7",
+      "orientation": "horizontal",
+      "dimension": "14\"\u03c6",
+      "pressure_class": "Medium",
+      "area": "Dining",
+      "length_ft": 25,
+      "bboxes": [
+        [
+          4880,
+          1460,
+          6820,
+          1530
+        ]
+      ],
+      "position_x": "right",
+      "position_y": "top"
+    },
+    {
+      "id": "duct_8",
+      "orientation": "vertical",
+      "dimension": null,
+      "pressure_class": "Medium",
+      "area": "Dining",
+      "length_ft": 13,
+      "bboxes": [
+        [
+          4845,
+          1495,
+          4915,
+          2451
+        ]
+      ],
+      "position_x": "right",
+      "position_y": "middle"
+    },
+    {
+      "id": "duct_9",
+      "orientation": "horizontal",
+      "dimension": "14\"\u03c6",
+      "pressure_class": "Medium",
+      "area": "Dining",
+      "length_ft": 25,
+      "bboxes": [
+        [
+          4880,
+          2416,
+          6820,
+          2486
+        ]
+      ],
+      "position_x": "right",
+      "position_y": "bottom"
+    },
+    {
+      "id": "duct_10",
+      "orientation": "horizontal",
+      "dimension": "12\"\u03c6",
+      "pressure_class": "Medium",
+      "area": "Scullery",
+      "length_ft": 2,
+      "bboxes": [
+        [
+          2586,
+          1467,
+          2823,
+          1537
+        ]
+      ],
+      "position_x": "left",
+      "position_y": "top"
+    },
+    {
+      "id": "duct_11",
+      "orientation": "vertical",
+      "dimension": null,
+      "pressure_class": "Medium",
+      "area": "Scullery",
+      "length_ft": 8,
+      "bboxes": [
+        [
+          2788,
+          1502,
+          2858,
+          2102
+        ]
+      ],
+      "position_x": "left",
+      "position_y": "middle"
+    },
+    {
+      "id": "duct_12",
+      "orientation": "horizontal",
+      "dimension": "12\"\u03c6",
+      "pressure_class": "Medium",
+      "area": "Scullery",
+      "length_ft": 4,
+      "bboxes": [
+        [
+          2436,
+          2067,
+          2823,
+          2137
+        ]
+      ],
+      "position_x": "left",
+      "position_y": "bottom"
+    }
+  ]
+}
