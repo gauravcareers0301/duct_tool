@@ -1,8 +1,5 @@
+extras/
 venv/
 __pycache__/
 *.pyc
-output/*.pdf
-output/*.png
 .DS_Store
-backups/
-Presentation Documents/
